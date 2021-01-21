@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "3gTT8IhJd5eScqluufN7znBnQoLfIrUzuV9Cg2+1ks5bT9AhgGjxli8Ap9m3MV9Eajvo4+T09z/St5cUDr0pZg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\omers\\Desktop\\ConsoleApp1\\DegerVeReferansTipler\\DegerVeReferansTipler.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\omers\\.nuget\\packages\\microsoft.netcore.app.host.win-x86\\3.1.11\\microsoft.netcore.app.host.win-x86.3.1.11.nupkg.sha512",
+    "C:\\Users\\omers\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\omers\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\omers\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

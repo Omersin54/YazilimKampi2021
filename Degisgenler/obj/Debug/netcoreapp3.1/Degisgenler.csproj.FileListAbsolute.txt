@@ -1,0 +1,13 @@
+C:\Users\omers\Desktop\ConsoleApp1\Degisgenler\obj\Debug\netcoreapp3.1\Degisgenler.csprojAssemblyReference.cache
+C:\Users\omers\Desktop\ConsoleApp1\Degisgenler\obj\Debug\netcoreapp3.1\Degisgenler.AssemblyInfoInputs.cache
+C:\Users\omers\Desktop\ConsoleApp1\Degisgenler\obj\Debug\netcoreapp3.1\Degisgenler.AssemblyInfo.cs
+C:\Users\omers\Desktop\ConsoleApp1\Degisgenler\obj\Debug\netcoreapp3.1\Degisgenler.csproj.CoreCompileInputs.cache
+C:\Users\omers\Desktop\ConsoleApp1\Degisgenler\bin\Debug\netcoreapp3.1\Degisgenler.exe
+C:\Users\omers\Desktop\ConsoleApp1\Degisgenler\bin\Debug\netcoreapp3.1\Degisgenler.deps.json
+C:\Users\omers\Desktop\ConsoleApp1\Degisgenler\bin\Debug\netcoreapp3.1\Degisgenler.runtimeconfig.json
+C:\Users\omers\Desktop\ConsoleApp1\Degisgenler\bin\Debug\netcoreapp3.1\Degisgenler.runtimeconfig.dev.json
+C:\Users\omers\Desktop\ConsoleApp1\Degisgenler\bin\Debug\netcoreapp3.1\Degisgenler.dll
+C:\Users\omers\Desktop\ConsoleApp1\Degisgenler\bin\Debug\netcoreapp3.1\Degisgenler.pdb
+C:\Users\omers\Desktop\ConsoleApp1\Degisgenler\obj\Debug\netcoreapp3.1\Degisgenler.dll
+C:\Users\omers\Desktop\ConsoleApp1\Degisgenler\obj\Debug\netcoreapp3.1\Degisgenler.pdb
+C:\Users\omers\Desktop\ConsoleApp1\Degisgenler\obj\Debug\netcoreapp3.1\Degisgenler.genruntimeconfig.cache
